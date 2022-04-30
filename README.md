@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s1monma
-- 👀 I’m an undergraduate at Harvard College in the USA.
+- 👀 I’m an undergraduate at Harvard College in the US.
 - 🌱 I’m currently learning Korean and Japanese. I hope to expand my horizons to as many cultures as possible, and learn Russian, Spanish and French in the future.
 - 💞️ I’m looking to take lessons on programming too, especially on web development.
 - 📫 You can email me at simon_smile2011@yahoo.com.sg
